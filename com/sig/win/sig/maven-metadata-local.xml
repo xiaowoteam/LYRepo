@@ -3,10 +3,11 @@
   <groupId>com.sig.win</groupId>
   <artifactId>sig</artifactId>
   <versioning>
-    <release>3.0.0</release>
+    <release>3.4.1</release>
     <versions>
       <version>3.0.0</version>
+      <version>3.4.1</version>
     </versions>
-    <lastUpdated>20211015023810</lastUpdated>
+    <lastUpdated>20211105022811</lastUpdated>
   </versioning>
 </metadata>
